@@ -13,4 +13,10 @@ let objeto = {
     idade: 32
     }; // tipo objeto
 
-console.log(typeof objeto)
+let nome3 = "Ferrari";
+let preco = 19.99;
+let cidade = "São Paulo"
+
+console.log(nome3)
+console.log(preco)
+console.log(cidade)
